@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T15:53:48.773Z" agent="5.0 (Windows)" etag="wbLifhEBduT2iOJZNmzQ" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T16:00:47.647Z" agent="5.0 (Windows)" etag="3xOUoHuepejntsqVLmRV" version="14.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2272" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2881" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-51" value="Yayınlar" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-65" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-52" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqpon6GhGyDIYH_nB1rT-51" target="kqpon6GhGyDIYH_nB1rT-1">
           <mxGeometry relative="1" as="geometry">
@@ -256,8 +256,8 @@
             <mxPoint x="-80.5" y="630.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqpon6GhGyDIYH_nB1rT-68" value="Yapar/Saklar" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="kqpon6GhGyDIYH_nB1rT-68" value="Tutar" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqpon6GhGyDIYH_nB1rT-68" target="kqpon6GhGyDIYH_nB1rT-1">
           <mxGeometry relative="1" as="geometry">
@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-75" value="Sahiptir" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-85" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-76" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="515" width="30" height="20" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="330" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-82" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="515" width="20" height="20" as="geometry" />
+          <mxGeometry x="150" y="510" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kqpon6GhGyDIYH_nB1rT-83" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="750" width="20" height="20" as="geometry" />
@@ -318,6 +318,9 @@
             <mxPoint x="260.5" y="840.0000000000001" as="sourcePoint" />
             <mxPoint x="305" y="900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kqpon6GhGyDIYH_nB1rT-87" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Kitabevi Veritabanı&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=3;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-70" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
